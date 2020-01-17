@@ -19,7 +19,7 @@ import glob
 # Cohort settings
 #
 cohort = '2018-12-18'
-base_dir = '../../../Data/T-cell_Human_Ovarian-Cancer_Adaptive-Biotech/Samples/v2/'
+base_dir = 'downloads/v2/'
 
 # Motif settings
 #

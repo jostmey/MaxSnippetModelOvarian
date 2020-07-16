@@ -2,6 +2,7 @@
 ##########################################################################################
 # Author: Jared L. Ostmeyer
 # Date Started: 2018-11-28
+# License: See LICENSE
 # Purpose: Evaluate repertoire model on holdout cross-validation
 ##########################################################################################
 

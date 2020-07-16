@@ -1,6 +1,7 @@
 #########################################################################################
 # Author: Jared L. Ostmeyer
 # Date Started: 2018-07-26
+# License: See LICENSE
 # Environment: Python3
 # Purpose: Utilities for creating a datbase of immune receptor sequences
 ##########################################################################################

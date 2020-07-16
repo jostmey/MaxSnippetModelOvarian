@@ -2,6 +2,7 @@
 ##########################################################################################
 # Author: Jared L. Ostmeyer
 # Date Started: 2018-02-01
+# License: See LICENSE
 # Purpose: Load repertoire samples and prepare the data for the model
 ##########################################################################################
 
